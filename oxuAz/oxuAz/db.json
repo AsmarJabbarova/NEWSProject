@@ -1,0 +1,92 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Prezident seçkiləri ilə bağlı YAP-ın yerli qərargahları yaradılıb, tərkibi təsdiqlənib",
+      "category": "siyaset",
+      "img": "https://cdn.oxu.az/uploads/W1siZiIsIjIwMjMvMTIvMTcvMTQvMjgvMzYvNGZiNzAyZjgtNjExYS00ZDcyLTgwZDktYzg2YmRjZTk2OTBjLzY1N2E5OWZhYjZmYTQ2NTdhOTlmYWI2ZmE1MTcwMjUzMzYyNjk4M2I2OTI5ZDUyNTliMjgzOTVjYjc0MzM5ODM3ZGI1LmpwZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDEzIyJdXQ?sha=cd350752c8eec1fa",
+      "date": "17 Dek",
+      "time": "12:08",
+      "like": 12,
+      "disLike": 23,
+      "watch": 234
+    },
+    {
+      "id": 2,
+      "title": "Heydər Əliyev adına türk dilləri və mədəniyyətləri mərkəzi”nin açılışı olub",
+      "category": "siyaset",
+      "img": "https://cdn.oxu.az/uploads/W1siZiIsIjIwMjMvMTIvMTcvMTQvMDMvMzAvYTgxNWRlYjAtZTQ3ZC00ZjI1LWI3NDctY2RmYzg1YmM4OGY3L0ZvdG9KZXQgKDExKS5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQxMyMiXV0?sha=ab56c672dedf3480",
+      "date": "13 Dek",
+      "time": "12:08",
+      "like": 12,
+      "disLike": 23,
+      "watch": 234
+    },
+    {
+      "id": 3,
+      "title": "Azərbaycana ən çox investisiya yatıran ölkələr açıqlandı",
+      "category": "iqtisadiyyat",
+      "img": "https://cdn.oxu.az/uploads/W1siZiIsIjIwMjMvMTIvMTUvMTcvMDMvMjEvNmE5ZGM0NjUtMjMzZC00ZGU1LTk5MmUtMzA1OTA0ODYxNjAyL19ST002OTEwLkpQRyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDEzIyJdXQ?sha=e14d53322cd883ac",
+      "date": "13 Dek",
+      "time": "12:08",
+      "like": 12,
+      "disLike": 23,
+      "watch": 234
+    },
+    {
+      "id": 4,
+      "title": "Azərbaycanda əhalinin gəlirləri artıb",
+      "category": "iqtisadiyyat",
+      "img": "https://cdn.oxu.az/uploads/W1siZiIsIjIwMjMvMTIvMTUvMTMvNTkvMzYvZTA0MTZlMTQtN2UxZC00YzA4LTk0MTAtNDU1MWM0NjY3NjBmLzY1N2MxZTBlYjZkMTU2NTdjMWUwZWI2ZDE2MTcwMjYzMjk3NDY1N2MxZTBlYjZkMTM2NTdjMWUwZWI2ZDE0LmpwZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDEzIyJdXQ?sha=7203b0631d55ca24",
+      "date": "13 Dek",
+      "time": "12:08",
+      "like": 12,
+      "disLike": 23,
+      "watch": 234
+    },
+    {
+      "id": 5,
+      "title": "Duman səbəbindən ertələnmiş reyslərin sərnişinləri Naxçıvana çatdırıldılar",
+      "category": "cemiyyet",
+      "img": "https://cdn.oxu.az/uploads/W1siZiIsIjIwMjMvMTIvMTgvMDgvMzMvMjQvMGY1NzkwMTAtNGMwZi00MzhmLWFjMDMtMjE3OTFmNjU0YTU3LzNpRm1TdzNlQ09hNklzbGFuZ1VNMDBFdFhYWEtQdGd2ajFCR0pHRGEuanBnIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODAiXSxbInAiLCJ0aHVtYiIsIjYyMHg0MTMjIl1d?sha=ff4b4ca514adb7ca",
+      "date": "13 Dek",
+      "time": "12:08",
+      "like": 12,
+      "disLike": 23,
+      "watch": 234
+    },
+    {
+      "id": 6,
+      "title": "Paytaxtda sıxlıq müşahidə edilən yollar",
+      "category": "cemiyyet",
+      "img": "https://cdn.oxu.az/uploads/W1siZiIsIjIwMjMvMTIvMTgvMDgvMzIvNTcvMTg3MDNjYzQtMWMwMy00MmRmLThhZGEtYTJmZGY3YzdiYTc3L19ST004OTI1LmpwZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDEzIyJdXQ?sha=c9fd33591e667d48",
+      "date": "13 Dek",
+      "time": "12:08",
+      "like": 12,
+      "disLike": 23,
+      "watch": 234
+    },
+    {
+      "id": 7,
+      "title": "Marqo Robbi “Barbie” filmindəki ən böyük peşmanlığından danışdı ",
+      "category": "sou-biznez",
+      "img": "https://cdn.oxu.az/uploads/W1siZiIsIjIwMjMvMTIvMTYvMTQvMzMvNTkvM2NmODI3YWMtY2I2ZS00OGY5LWIxYjctNWI2MmU5ZWZiZjYzLzQwNjYwMTQ0NF84OTY1NTgzMTU0ODM3MjBfMzk3NTc3ODc1NjcxMzM5ODQwMV9uLmpwZyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDgwIl0sWyJwIiwidGh1bWIiLCI2MjB4NDEzIyJdXQ?sha=1522d0be7222fcce",
+      "date": "13 Dek",
+      "time": "12:08",
+      "like": 12,
+      "disLike": 23,
+      "watch": 234
+    },
+    {
+      "id": 8,
+      "title": "Teylor Sviftin turu “Ginnesin Rekordlar Kitabı”na düşüb",
+      "category": "sou-biznez",
+      "img": "https://cdn.oxu.az/uploads/W1siZiIsIjIwMjMvMTIvMTMvMTEvMzIvMTAvNzM2ZjNhMjctNDZlMy00MDRkLTkzMDAtYWQ5ZmRlNWQwZDUwLzM4NzQ3Mjg0NV8zNjQwMDcxOTkyOTc4NDg0XzIzMTc3NTM4MzE5OTQyOTMyNjlfbi5qcGciXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4MCJdLFsicCIsInRodW1iIiwiNjIweDQxMyMiXV0?sha=ee3799ca2a5f9bb7",
+      "date": "13 Dek",
+      "time": "12:08",
+      "like": 12,
+      "disLike": 23,
+      "watch": 234
+    }
+  ]
+}
